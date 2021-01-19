@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1610827555740" clover="3.2.0">
-  <project timestamp="1610827555740" name="All files">
-    <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8" elements="26" coveredelements="26" complexity="0" loc="18" ncloc="18" packages="1" files="5" classes="5"/>
+<coverage generated="1611018334756" clover="3.2.0">
+  <project timestamp="1611018334756" name="All files">
+    <metrics statements="25" coveredstatements="24" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="11" elements="37" coveredelements="35" complexity="0" loc="25" ncloc="25" packages="1" files="6" classes="6"/>
     <file name="cloneArray.js" path="/Users/patrickdohn/Work/testing-practice/cloneArray.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="2" count="2" type="stmt"/>
       <line num="5" count="1" type="stmt"/>
     </file>
     <file name="functions.js" path="/Users/patrickdohn/Work/testing-practice/functions.js">
-      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="6"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="2" count="2" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
-      <line num="4" count="1" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
       <line num="6" count="1" type="stmt"/>
-      <line num="7" count="1" type="stmt"/>
       <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
       <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+    <file name="reverseStr.js" path="/Users/patrickdohn/Work/testing-practice/reverseStr.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
     </file>
     <file name="romanMap.js" path="/Users/patrickdohn/Work/testing-practice/romanMap.js">
       <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
