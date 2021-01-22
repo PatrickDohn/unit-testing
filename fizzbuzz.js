@@ -14,4 +14,5 @@ const fizzbuzz = (num) => {
     return arr
 }
 
+console.log(fizzbuzz(15))
 module.exports = fizzbuzz
